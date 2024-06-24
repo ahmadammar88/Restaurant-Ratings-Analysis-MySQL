@@ -37,22 +37,22 @@ The project utilizes various SQL functions for data analysis, including:
 Key data analysis tasks performed include:
 
 1. **Identifying Most Preferred Cuisines:**
-    -Using aggregate functions to determine the cuisines with the highest number of preferences.
+    - Using aggregate functions to determine the cuisines with the highest number of preferences.
 
 2. **Regional Analysis:**
-    -Analyzing restaurant ratings patterns based on regions using joins with location data.
+    - Analyzing restaurant ratings patterns based on regions using joins with location data.
    
 3. **Average Ratings by Consumer:**
-   -Calculating the average overall, food, and service ratings given by each consumer using aggregation functions.
+   - Calculating the average overall, food, and service ratings given by each consumer using aggregation functions.
 
 4. **Consumer and Restaurant Interaction:**
-   -Examining the relationship between consumers and restaurants using join queries to combine data from multiple tables.
+   - Examining the relationship between consumers and restaurants using join queries to combine data from multiple tables.
 
 5. **Most Rated Restaurants:**
-   -Identifying the restaurants with the highest number of ratings using aggregate functions and grouping.
+   - Identifying the restaurants with the highest number of ratings using aggregate functions and grouping.
    
 6. **Top Rated Restaurants:**
-   -Retrieving information about the highest-rated restaurants based on overall rating, food rating, and service rating.
+   - Retrieving information about the highest-rated restaurants based on overall rating, food rating, and service rating.
 
 
   
