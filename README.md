@@ -27,7 +27,6 @@ Functions Used
 The project utilizes various SQL functions for data analysis, including:
 
 - Joins
-- Subqueries
 - Aggregation Functions
 - Filtering and Sorting
 
